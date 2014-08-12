@@ -21,6 +21,7 @@ body {
     background-image: url('../img/Rhumsiki_Peak.jpg') ;
     height: 100%;
     width: 100%;
+    position: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
